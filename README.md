@@ -17,3 +17,5 @@ A repository of web developer resources available on the web.
 ## External Lists of Resources
 - [Awesome React Components](https://github.com/brillout/awesome-react-components) - And the inspiration for this repository!
 
+## External Documentation Sites
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web)
