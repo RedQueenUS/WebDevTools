@@ -13,3 +13,7 @@ A repository of web developer resources available on the web.
 - [Can I Use](http://caniuse.com/)
 - [Browserify CDN](https://wzrd.in/)
 - [Microsoft Edge Testing](https://developer.microsoft.com/en-us/microsoft-edge/tools/remote/)
+
+## External Lists of Resources
+- [Awesome React Components](https://github.com/brillout/awesome-react-components) - And the inspiration for this repository!
+
