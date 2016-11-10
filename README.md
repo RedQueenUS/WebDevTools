@@ -22,7 +22,7 @@ A repository of web developer resources available on the web.
 
 ## Our React Stack
 ###### These are open source tools we use in our React apps
-- [Create Raact App, our base](https://github.com/facebookincubator/create-react-app)
+- [Create React App, our base](https://github.com/facebookincubator/create-react-app)
 - [React](https://github.com/facebook/react)
 - [Redux](https://github.com/reactjs/redux)
 - [React Redux](https://github.com/reactjs/react-redux)
