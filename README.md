@@ -16,6 +16,7 @@ A repository of web developer resources available on the web.
 
 ## External Lists of Resources
 - [Awesome React Components](https://github.com/brillout/awesome-react-components) - And the inspiration for this repository!
+- [Fullstack Academy - 11 Free Online Resources](https://www.fullstackacademy.com/blog/learn-javascript-for-free-11-online-tutorials-resources)
 
 ## External Documentation Sites
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web)
