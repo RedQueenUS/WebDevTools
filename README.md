@@ -31,3 +31,6 @@ A repository of web developer resources available on the web.
 - [Redux Saga](https://github.com/yelouafi/redux-saga)
 - [Isometric Fetch](https://github.com/matthew-andrews/isomorphic-fetch)
 - [Webpack](https://github.com/webpack/webpack)
+
+## JavaScript Resources
+ - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
