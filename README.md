@@ -39,3 +39,4 @@ A repository of web developer resources available on the web.
 ## HTTP References
  - [RESTful HTTP Methods](http://www.restapitutorial.com/lessons/httpmethods.html)
  - [HTTP Status Codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+ - [HTTP PUT vs POST](http://restcookbook.com/HTTP%20Methods/put-vs-post/)
